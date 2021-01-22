@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/productsFragment">
+    <fragment
+        android:id="@+id/productsFragment"
+        android:name="com.example.testapp.ui.products.ProductsFragment"
+        android:label="fragment_products"
+        tools:layout="@layout/fragment_products">
+        <argument
+            android:name="query"
+            app:argType="string"
+            app:nullable="true"
+            android:defaultValue=""/>
+        <action
+            android:id="@+id/action_productsFragment_self"
+            app:destination="@id/productsFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+        <action
+            android:id="@+id/action_productsFragment_to_productDetailFragment"
+            app:destination="@id/productDetailFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+    <fragment
+        android:id="@+id/productDetailFragment"
+        android:name="com.example.testapp.ui.productDetail.ProductDetailFragment"
+        android:label="fragment_product_detail"
+        tools:layout="@layout/fragment_product_detail" >
+        <argument
+            android:name="productId"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_productDetailFragment_to_fullScreenCarouselFragment"
+            app:destination="@id/fullScreenCarouselFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out" />
+    </fragment>
+    <dialog
+        android:id="@+id/fullScreenCarouselFragment"
+        android:name="com.example.testapp.ui.fullScreenCarousel.FullScreenCarouselDialog"
+        android:label="fragment_full_screen_carousel"
+        tools:layout="@layout/dialog_full_screen_carousel" >
+        <argument
+            android:name="images"
+            app:argType="string[]" />
+        <argument
+            android:name="currentImage"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </dialog>
+</navigation>

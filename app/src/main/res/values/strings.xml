@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">TestApp</string>
+    <string name="app_name">Product finder</string>
+
+    <string name="error_message">Sorry there was an error processing your search: %s</string>
+    <string name="pages_counter" translatable="false">%1$d/%2$d</string>
+    <string name="query_hint_search">Search among thousands of products and brands!</string>
+    <string name="search_error">Sorry there was an error processing your search</string>
+    <string name="retry">Retry</string>
+    <string name="empty_search_message">Sorry your search did not get results, try searching for something else</string>
+    <string name="description">Description</string>
+    <string name="search_message">Here you will find the best brands and products!</string>
 </resources>

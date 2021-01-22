@@ -1,0 +1,868 @@
+{
+  "site_id": "MCO",
+  "query": "\"toy\"",
+  "paging": {
+    "total": 195374,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [ {
+    "id": "MCO587621708",
+    "site_id": "MCO",
+    "title": "Toy Story Clasico Buzz Space Ranger Colección",
+    "seller": {
+      "id": 544457773,
+      "permalink": null,
+      "registration_date": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": null
+    },
+    "price": 274950,
+    "prices": {},
+    "sale_price": null,
+    "currency_id": "COP",
+    "available_quantity": 150,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2040-11-21T19:58:38.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.co/MCO-587621708-toy-story-clasico-buzz-space-ranger-coleccion-_JM",
+    "thumbnail": "http://mco-s1-p.mlstatic.com/768208-MCO43700865757_102020-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 36,
+      "amount": 7637.5,
+      "rate": 0,
+      "currency_id": "COP"
+    },
+    "address": {
+      "state_id": "CO-CUN",
+      "state_name": "Cundinamarca",
+      "city_id": "TUNPQ0ZVTjMxMDQy",
+      "city_name": "Funza"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": [
+        "fulfillment",
+        "mandatory_free_shipping"
+      ],
+      "logistic_type": "fulfillment",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "CO",
+        "name": "Colombia"
+      },
+      "state": {
+        "id": "CO-CUN",
+        "name": "Cundinamarca"
+      },
+      "city": {
+        "id": "TUNPQ0ZVTjMxMDQy",
+        "name": "Funza"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [
+      {
+        "value_id": "2230284",
+        "value_name": "Nuevo",
+        "value_struct": null,
+        "attribute_group_name": "Otros",
+        "name": "Condición del ítem",
+        "values": [
+          {
+            "name": "Nuevo",
+            "struct": null,
+            "source": 4954751883138633,
+            "id": "2230284"
+          }
+        ],
+        "attribute_group_id": "OTHERS",
+        "source": 4954751883138633,
+        "id": "ITEM_CONDITION"
+      },
+      {
+        "value_struct": null,
+        "values": [
+          {
+            "id": null,
+            "name": "Juguetes",
+            "struct": null,
+            "source": 4954751883138633
+          }
+        ],
+        "attribute_group_id": "OTHERS",
+        "value_id": null,
+        "name": "Línea",
+        "value_name": "Juguetes",
+        "attribute_group_name": "Otros",
+        "source": 4954751883138633,
+        "id": "LINE"
+      },
+      {
+        "id": "PACKAGE_LENGTH",
+        "name": "Largo del paquete",
+        "value_id": null,
+        "attribute_group_name": "Otros",
+        "source": 4333789534002961,
+        "value_name": "27.4 cm",
+        "value_struct": {
+          "number": 27.4,
+          "unit": "cm"
+        },
+        "values": [
+          {
+            "id": null,
+            "name": "27.4 cm",
+            "struct": {
+              "unit": "cm",
+              "number": 27.4
+            },
+            "source": 4333789534002961
+          }
+        ],
+        "attribute_group_id": "OTHERS"
+      },
+      {
+        "value_id": null,
+        "values": [
+          {
+            "id": null,
+            "name": "1340 g",
+            "struct": {
+              "number": 1340,
+              "unit": "g"
+            },
+            "source": 4333789534002961
+          }
+        ],
+        "attribute_group_name": "Otros",
+        "source": 4333789534002961,
+        "id": "PACKAGE_WEIGHT",
+        "name": "Peso del paquete",
+        "value_name": "1340 g",
+        "value_struct": {
+          "number": 1340,
+          "unit": "g"
+        },
+        "attribute_group_id": "OTHERS"
+      }
+    ],
+    "original_price": 549900,
+    "category_id": "MCO2978",
+    "official_store_id": 320,
+    "domain_id": "MCO-ACTION_FIGURES",
+    "catalog_product_id": null,
+    "tags": [
+      "good_quality_thumbnail",
+      "good_quality_picture",
+      "immediate_payment",
+      "cart_eligible",
+      "shipping_guaranteed"
+    ],
+    "order_backend": 1
+  }],
+  "secondary_results": [],
+  "related_results": [],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [],
+  "available_filters": [
+    {
+      "id": "category",
+      "name": "Categorías",
+      "type": "text",
+      "values": [
+        {
+          "id": "MCO176628",
+          "name": "Muñecos y Muñecas",
+          "results": 53460
+        },
+        {
+          "id": "MCO1392",
+          "name": "Juegos y Juguetes para Bebés",
+          "results": 29440
+        },
+        {
+          "id": "MCO1071",
+          "name": "Animales y Mascotas",
+          "results": 13252
+        },
+        {
+          "id": "MCO432871",
+          "name": "Vehículos de Juguete",
+          "results": 12686
+        },
+        {
+          "id": "MCO435648",
+          "name": "Juguetes para Bebés",
+          "results": 11034
+        },
+        {
+          "id": "MCO432988",
+          "name": "Juegos de Mesa y Cartas",
+          "results": 9216
+        },
+        {
+          "id": "MCO176638",
+          "name": "Bloques y Construcción",
+          "results": 5568
+        },
+        {
+          "id": "MCO1574",
+          "name": "Hogar y Muebles",
+          "results": 5030
+        },
+        {
+          "id": "MCO118204",
+          "name": "Recuerdos, Piñatería y Fiestas",
+          "results": 4236
+        },
+        {
+          "id": "MCO157245",
+          "name": "Electrónicos para Niños",
+          "results": 3112
+        },
+        {
+          "id": "MCO432818",
+          "name": "Juguetes de Oficios",
+          "results": 3060
+        },
+        {
+          "id": "MCO1167",
+          "name": "Juegos de Parque y Aire Libre",
+          "results": 3042
+        },
+        {
+          "id": "MCO1430",
+          "name": "Ropa y Accesorios",
+          "results": 2772
+        },
+        {
+          "id": "MCO432873",
+          "name": "Hobbies",
+          "results": 2604
+        },
+        {
+          "id": "MCO1276",
+          "name": "Deportes y Fitness",
+          "results": 2412
+        },
+        {
+          "id": "MCO432991",
+          "name": "Juguetes Antiestrés e Ingenio",
+          "results": 2354
+        },
+        {
+          "id": "MCO433069",
+          "name": "Juegos de Agua y Playa",
+          "results": 2192
+        },
+        {
+          "id": "MCO176742",
+          "name": "Dibujo, Pintura y Manualidades",
+          "results": 1814
+        },
+        {
+          "id": "MCO176683",
+          "name": "Vehículos Montables para Niños",
+          "results": 1468
+        },
+        {
+          "id": "MCO435641",
+          "name": "Instrumentos Musicales",
+          "results": 1370
+        },
+        {
+          "id": "MCO1368",
+          "name": "Arte, Papelería y Mercería",
+          "results": 1096
+        },
+        {
+          "id": "MCO1747",
+          "name": "Accesorios para Vehículos",
+          "results": 1012
+        },
+        {
+          "id": "MCO1000",
+          "name": "Electrónica, Audio y Video",
+          "results": 912
+        },
+        {
+          "id": "MCO1648",
+          "name": "Computación",
+          "results": 906
+        },
+        {
+          "id": "MCO3025",
+          "name": "Libros, Revistas y Comics",
+          "results": 792
+        },
+        {
+          "id": "MCO1246",
+          "name": "Belleza y Cuidado Personal",
+          "results": 772
+        },
+        {
+          "id": "MCO420303",
+          "name": "Chupetes y Mordedores",
+          "results": 710
+        },
+        {
+          "id": "MCO1144",
+          "name": "Consolas y Videojuegos",
+          "results": 690
+        },
+        {
+          "id": "MCO5362",
+          "name": "Cuarto del Bebé",
+          "results": 640
+        },
+        {
+          "id": "MCO3937",
+          "name": "Relojes y Joyas",
+          "results": 630
+        },
+        {
+          "id": "MCO433047",
+          "name": "Títeres y Marionetas",
+          "results": 602
+        },
+        {
+          "id": "MCO180005",
+          "name": "Artículos de Bebés para Baños",
+          "results": 582
+        },
+        {
+          "id": "MCO4696",
+          "name": "Juegos de Salón",
+          "results": 558
+        },
+        {
+          "id": "MCO175794",
+          "name": "Herramientas y Construcción",
+          "results": 544
+        },
+        {
+          "id": "MCO435728",
+          "name": "Piscinas y Castillos",
+          "results": 530
+        },
+        {
+          "id": "MCO5360",
+          "name": "Lactancia y Alimentación",
+          "results": 484
+        },
+        {
+          "id": "MCO12160",
+          "name": "Caminadores y Correpasillos",
+          "results": 424
+        },
+        {
+          "id": "MCO433060",
+          "name": "Casas y Carpas para Niños",
+          "results": 420
+        },
+        {
+          "id": "MCO420277",
+          "name": "Paseo del Bebé",
+          "results": 418
+        },
+        {
+          "id": "MCO1499",
+          "name": "Industrias y Oficinas",
+          "results": 386
+        },
+        {
+          "id": "MCO1039",
+          "name": "Cámaras y Accesorios",
+          "results": 368
+        },
+        {
+          "id": "MCO176674",
+          "name": "Armas y Lanzadores de Juguetes",
+          "results": 334
+        },
+        {
+          "id": "MCO1168",
+          "name": "Música, Películas y Series",
+          "results": 326
+        },
+        {
+          "id": "MCO189879",
+          "name": "Patines y Patinetas",
+          "results": 322
+        },
+        {
+          "id": "MCO1367",
+          "name": "Antigüedades y Colecciones",
+          "results": 270
+        },
+        {
+          "id": "MCO437699",
+          "name": "Figuritas, Álbumes y Cromos",
+          "results": 250
+        },
+        {
+          "id": "MCO5702",
+          "name": "Higiene y Cuidado del Bebé",
+          "results": 246
+        },
+        {
+          "id": "MCO180800",
+          "name": "Salud y Equipamiento Médico",
+          "results": 236
+        },
+        {
+          "id": "MCO1051",
+          "name": "Celulares y Teléfonos",
+          "results": 218
+        },
+        {
+          "id": "MCO5726",
+          "name": "Electrodomésticos",
+          "results": 140
+        },
+        {
+          "id": "MCO181115",
+          "name": "Artículos de Maternidad",
+          "results": 120
+        },
+        {
+          "id": "MCO1889",
+          "name": "Seguridad para Bebés",
+          "results": 106
+        },
+        {
+          "id": "MCO1403",
+          "name": "Alimentos y Bebidas",
+          "results": 104
+        },
+        {
+          "id": "MCO416865",
+          "name": "Juguetes de Bromas",
+          "results": 82
+        },
+        {
+          "id": "MCO189320",
+          "name": "Mesas y Sillas para Niños",
+          "results": 74
+        },
+        {
+          "id": "MCO441917",
+          "name": "Agro",
+          "results": 68
+        },
+        {
+          "id": "MCO420324",
+          "name": "Corrales para Bebé",
+          "results": 26
+        },
+        {
+          "id": "MCO420355",
+          "name": "Salud del Bebé",
+          "results": 16
+        },
+        {
+          "id": "MCO40433",
+          "name": "Boletas para Espectáculos",
+          "results": 2
+        },
+        {
+          "id": "MCO1910",
+          "name": "Otros",
+          "results": 21896
+        },
+        {
+          "id": "MCO1953",
+          "name": "Otras categorías",
+          "results": 1020
+        }
+      ]
+    },
+    {
+      "id": "official_store",
+      "name": "Tiendas oficiales",
+      "type": "text",
+      "values": [
+        {
+          "id": "all",
+          "name": "Todas las tiendas oficiales",
+          "results": 1190
+        },
+        {
+          "id": "320",
+          "name": "Boing Toys",
+          "results": 672
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "name": "Descuentos",
+      "type": "range",
+      "values": [
+        {
+          "id": "10-100",
+          "name": "Desde 10% OFF",
+          "results": 908
+        },
+        {
+          "id": "20-100",
+          "name": "Desde 20% OFF",
+          "results": 872
+        },
+        {
+          "id": "30-100",
+          "name": "Desde 30% OFF",
+          "results": 818
+        },
+        {
+          "id": "40-100",
+          "name": "Desde 40% OFF",
+          "results": 161
+        }
+      ]
+    },
+    {
+      "id": "state",
+      "name": "Ubicación",
+      "type": "text",
+      "values": [
+        {
+          "id": "CO-DC",
+          "name": "Bogotá D.C.",
+          "results": 121338
+        },
+        {
+          "id": "CO-CES",
+          "name": "Cesar",
+          "results": 29950
+        },
+        {
+          "id": "CO-ANT",
+          "name": "Antioquia",
+          "results": 14502
+        },
+        {
+          "id": "CO-CUN",
+          "name": "Cundinamarca",
+          "results": 7990
+        },
+        {
+          "id": "CO-SAN",
+          "name": "Santander",
+          "results": 6682
+        },
+        {
+          "id": "CO-VAC",
+          "name": "Valle Del Cauca",
+          "results": 4584
+        },
+        {
+          "id": "CO-ATL",
+          "name": "Atlantico",
+          "results": 4116
+        },
+        {
+          "id": "CO-QUI",
+          "name": "Quindio",
+          "results": 1664
+        },
+        {
+          "id": "CO-MET",
+          "name": "Meta",
+          "results": 1526
+        },
+        {
+          "id": "CO-NSA",
+          "name": "Norte De Santander",
+          "results": 1220
+        },
+        {
+          "id": "CO-RIS",
+          "name": "Risaralda",
+          "results": 420
+        },
+        {
+          "id": "CO-MAG",
+          "name": "Magdalena",
+          "results": 358
+        },
+        {
+          "id": "CO-BOL",
+          "name": "Bolivar",
+          "results": 354
+        },
+        {
+          "id": "CO-CAL",
+          "name": "Caldas",
+          "results": 336
+        },
+        {
+          "id": "CO-BOY",
+          "name": "Boyaca",
+          "results": 58
+        },
+        {
+          "id": "CO-TOL",
+          "name": "Tolima",
+          "results": 58
+        },
+        {
+          "id": "CO-COR",
+          "name": "Córdoba",
+          "results": 38
+        },
+        {
+          "id": "CO-LAG",
+          "name": "Guajira",
+          "results": 38
+        },
+        {
+          "id": "CO-NAR",
+          "name": "Nariño",
+          "results": 36
+        },
+        {
+          "id": "CO-ARA",
+          "name": "Arauca",
+          "results": 32
+        },
+        {
+          "id": "CO-CAU",
+          "name": "Cauca",
+          "results": 20
+        },
+        {
+          "id": "CO-CHO",
+          "name": "Choco",
+          "results": 18
+        },
+        {
+          "id": "CO-AMA",
+          "name": "Amazonas",
+          "results": 2
+        },
+        {
+          "id": "CO-CAQ",
+          "name": "Caqueta",
+          "results": 2
+        },
+        {
+          "id": "CO-CAS",
+          "name": "Casanare",
+          "results": 2
+        },
+        {
+          "id": "CO-HUI",
+          "name": "Huila",
+          "results": 2
+        },
+        {
+          "id": "CO-SAP",
+          "name": "San Andres y Providencia",
+          "results": 2
+        },
+        {
+          "id": "CO-SUC",
+          "name": "Sucre",
+          "results": 2
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-100000.0",
+          "name": "Hasta $100.000",
+          "results": 40552
+        },
+        {
+          "id": "100000.0-150000.0",
+          "name": "$100.000 a $150.000",
+          "results": 55671
+        },
+        {
+          "id": "150000.0-*",
+          "name": "Más de $150.000",
+          "results": 99151
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "Filtro por MercadoPago",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con MercadoPago",
+          "results": 195374
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "En cuotas",
+          "results": 195294
+        },
+        {
+          "id": "no_interest",
+          "name": "Cuotas sin interés",
+          "results": 51236
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Mercado Envíos",
+          "results": 187936
+        },
+        {
+          "id": "fulfillment",
+          "name": "Full",
+          "results": 214
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Filtro por calidad de vendedores",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Mejores vendedores",
+          "results": 105076
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "name": "Filtro por fecha de comienzo",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Publicados hoy",
+          "results": 440
+        }
+      ]
+    },
+    {
+      "id": "until",
+      "name": "Filtro por fecha de finalización",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Finalizan hoy",
+          "results": 4
+        }
+      ]
+    },
+    {
+      "id": "has_video",
+      "name": "Filtro por publicaciones con video",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Publicaciones con video",
+          "results": 4136
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Filtro por publicaciones con imágenes",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con fotos",
+          "results": 193768
+        }
+      ]
+    },
+    {
+      "id": "adult_content",
+      "name": "Filtro de contenido adulto",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Contenido adulto",
+          "results": 633
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 182210
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 194954
+        },
+        {
+          "id": "2230581",
+          "name": "Usado",
+          "results": 504
+        }
+      ]
+    }
+  ]
+}

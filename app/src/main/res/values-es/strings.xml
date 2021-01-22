@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buscador de productos</string>
+    <string name="error_message">Lo sentimos, hubo un error al procesar su búsqueda: %s</string>
+    <string name="query_hint_search">¡Busca entre miles de productos y marcas!</string>
+    <string name="search_error">Lo sentimos, hubo un error al procesar su búsqueda.</string>
+    <string name="retry">Reintentar</string>
+    <string name="empty_search_message">Lo sentimos, su búsqueda no obtuvo resultados, intente buscar otra cosa</string>
+    <string name="description">Descripción</string>
+    <string name="search_message">¡Aquí encontrarás las mejores marcas y productos!</string>
+</resources>
